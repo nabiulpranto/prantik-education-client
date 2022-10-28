@@ -9,7 +9,7 @@ const Courses = () => {
 
   useEffect(() => {
     fetch(
-      "https://learning-platform-server-topaz.vercel.app/all-courses-details"
+      "https://prantik-education-server-topaz.vercel.app/all-courses-details"
     )
       .then((res) => res.json())
       .then((data) => setCourses(data));

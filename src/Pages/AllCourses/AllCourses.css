@@ -1,27 +1,33 @@
 .all-courses {
   padding: 50px;
 }
+
 .courses {
   margin-bottom: 12%;
 }
+
 .cart {
   padding: 10px;
   margin-bottom: 7px;
   border: 1px solid;
-  border-color: #4d504e;
+  border-color: #7ca389;
   margin-top: 10px;
   border-radius: 5px;
 }
+
 .text-area {
   text-align: center;
 }
+
 .section-hr {
   margin-top: 100px;
   border-color: #ebebeb;
 }
+
 .section-header {
   margin-bottom: 40px;
 }
+
 .feature-icon {
   width: 100px;
   height: 50px;
@@ -31,9 +37,11 @@
   border: 1px solid #ebebeb;
   color: #29ca96eb;
 }
+
 .feature-content {
   padding-left: 10%;
 }
+
 .bg-image {
   background-image: url(https://thesat50.pythonanywhere.com/static/img/cta2-background.jpg);
   background-position: bottom;
@@ -42,6 +50,7 @@
   opacity: 0.7;
   height: 250px;
 }
+
 .bg-image.bg-parallax {
   background-attachment: fixed;
 }

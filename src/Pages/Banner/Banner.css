@@ -1,5 +1,5 @@
 .banner {
-  background-image: url("../../assets/images/117537747-abstract-javascript-code-background-.webp"),
+  background-image: url("../../assets/images/prantik-education-banner.webp"),
     linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
   height: 780px;
   width: 100%;
@@ -10,14 +10,17 @@
   background-position-y: -180px;
   background-attachment: fixed;
 }
+
 .banner-container {
   text-align: center;
 }
+
 .title {
   color: rgb(236, 235, 235);
   font-weight: bold;
   font-size: 59px;
 }
+
 .about-btn {
   padding: 17px 34px;
 }

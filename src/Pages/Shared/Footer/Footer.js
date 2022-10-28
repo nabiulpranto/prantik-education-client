@@ -21,7 +21,7 @@ const Footer = () => {
           <div className="row">
             <div className="col-md-6">
               <div className="left-container text-start">
-                <h1>LearnJAVASCRIPT</h1>
+                <h1>PrantiK Education</h1>
                 <div className="icons-container d-flex text-center ">
                   <div className="icon">
                     <FontAwesomeIcon icon={faInstagram} />
@@ -45,7 +45,7 @@ const Footer = () => {
 
                 <p className="mt-5">
                   <small>
-                    <FontAwesomeIcon icon={faCopyright} /> Nizam Uddin Shejan
+                    <FontAwesomeIcon icon={faCopyright} /> Nabiul Islam Pranto
                     2022 || Programming Hero Assignment 10
                   </small>
                 </p>

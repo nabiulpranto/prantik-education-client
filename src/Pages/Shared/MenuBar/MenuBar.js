@@ -10,7 +10,7 @@ const MenuBar = () => {
 
   const handleLogOut = () => {
     logOut()
-      .then(() => {})
+      .then(() => { })
       .catch((error) => {
         console.error(error);
       });
@@ -23,7 +23,7 @@ const MenuBar = () => {
           <div className="col-md-2">
             <div className="logo-img">
               <h1 className="text-info">
-                Learn<span style={{ color: "orange" }}>JAVASCRIPT</span>
+                PRANTIK<span style={{ color: "orange" }}>eDUCATION</span>
               </h1>
             </div>
           </div>
