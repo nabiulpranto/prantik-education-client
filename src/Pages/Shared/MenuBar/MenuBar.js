@@ -23,7 +23,7 @@ const MenuBar = () => {
           <div className="col-md-2">
             <div className="logo-img">
               <h1 className="text-info">
-                PRANTIK<span style={{ color: "orange" }}>eDUCATION</span>
+                PRANTIK<span style={{ color: "yellow" }}>eDUcATION</span>
               </h1>
             </div>
           </div>

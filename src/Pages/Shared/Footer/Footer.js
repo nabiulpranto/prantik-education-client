@@ -4,7 +4,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faFacebook,
   faInstagram,
-  faTwitter,
+
   faYoutube,
 } from "@fortawesome/free-brands-svg-icons";
 import {
@@ -26,9 +26,7 @@ const Footer = () => {
                   <div className="icon">
                     <FontAwesomeIcon icon={faInstagram} />
                   </div>
-                  <div className="icon">
-                    <FontAwesomeIcon icon={faTwitter} />
-                  </div>
+
                   <div className="icon">
                     <FontAwesomeIcon icon={faYoutube} />
                   </div>
@@ -38,8 +36,8 @@ const Footer = () => {
                 </div>
                 <p className="mt-4 ">
                   <small>
-                    ping us for any queries you have in our social media. <br />
-                    we would love to hear from you
+                    Ping us for any queries you have in our social media. <br />
+                    We would love to hear from you
                   </small>
                 </p>
 
@@ -54,7 +52,7 @@ const Footer = () => {
 
             <div className="col-md-6">
               <div className="right-footer-container">
-                <h3>shoot us an email</h3>
+                <h3>Your Email Account</h3>
                 <input
                   className="footer-input"
                   type="text"
@@ -65,7 +63,8 @@ const Footer = () => {
                     <FontAwesomeIcon icon={faPhoneVolume} />
                   </div>
                   <div>
-                    <h5>+88 01629****69</h5>
+                    <h5>+88 015******76
+                    </h5>
                   </div>
                 </div>
                 <div className="map d-flex align-items-center justify-content-center">
@@ -74,8 +73,8 @@ const Footer = () => {
                   </div>
                   <div>
                     <p>
-                      Silimpur Moddho Para, Ward No 14
-                      <br /> Bogra Sadar, Bogra-5800
+                      Mirpur-12
+                      <br /> Dhaka, Bangladesh
                     </p>
                   </div>
                 </div>

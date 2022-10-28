@@ -12,19 +12,12 @@ const Banner = () => {
           <MenuBar />
           <div className="col-6">
             <h1 className="title">
-              develop Your <br /> Mind And Skills 📈
+              Learn And Fullfill Your Dream
             </h1>
-            <p className="text-white text-center mt-3">
-              Want To Get Professional Knowledge In Fast-Developing IT Sphere?.{" "}
-              <br />
-              <small className="text-warning">
-                If You Are Just An Amataur Who’s Willing To Get Professional
-                Knowledge Check What We Prepared For You!
-              </small>
-            </p>
+
             <Link to={"/about"}>
               <Button variant="outline-info text-white about-btn">
-                who are we?
+                Join with Us?
               </Button>
             </Link>
           </div>
